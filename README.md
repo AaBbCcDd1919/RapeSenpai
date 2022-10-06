@@ -2,8 +2,6 @@
 
   ![Senpai](https://github.com/AaBbCcDd1919/RapeSenpai/blob/main/static/image/ClickBefore.png?raw=true#pic_center)
 
-  > yarimasune!
-
 </p>
 
 <div>
@@ -21,5 +19,7 @@
 
 ## 简介
 小游戏：雷普先辈
+
+> yarimasune!
 
 [🎮点此游玩](https://aabbccdd1919.github.io/RapeSenpai/)
