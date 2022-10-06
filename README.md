@@ -1,8 +1,8 @@
 <p>
 
-![Senpai](https://github.com/AaBbCcDd1919/RapeSenpai/blob/main/static/image/ClickBefore.png?raw=true)
+![Senpai](https://github.com/AaBbCcDd1919/RapeSenpai/blob/main/static/image/ClickBefore.png?raw=true#pic_center)
 
-  > yarimasune!
+<center> > yarimasune! </center>
 
 </p>
 
