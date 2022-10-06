@@ -6,7 +6,8 @@
 # RapeSenpai
 **新概念Home游戏**
 
-<i>#由于原版网站已经关闭([雷普先辈](https://xiaohuang257.github.io/RapeSenpai/index.html)），故fork了一份作为备份</i>
+#由于原版网站已经关闭([雷普先辈](https://xiaohuang257.github.io/RapeSenpai/index.html)），故fork一份作为备份
+<i>#这种恶臭的东西还有必要fork吗（脑）</i>
 
 [📎原件链接](https://github.com/Xiaohuang257/RapeSenpai)
 
