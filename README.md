@@ -1,6 +1,8 @@
 <p align="center">
   <a href="https://AaBbCcDd1919.github.io/RapeSenpai/index.html"><img src="https://github.com/AaBbCcDd1919/RapeSenpai/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="RapeSenpai"></a>
+
   > yarimasune!
+
 </p>
 
 <div>
