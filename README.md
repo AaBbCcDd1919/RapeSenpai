@@ -13,7 +13,7 @@
 
   <i>这种恶臭的东西还有 fork 的必要吗(脑)</i>
 
-  [📎原件链接](https://github.com/Xiaohuang257/RapeSenpai)
+  [📎原件链接](https://github.com/Xiaohuang257/RapeSenpai)(应该和上面的链接一起炸了)
 
 </div>
 
